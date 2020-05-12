@@ -1,0 +1,1 @@
+"hello" is string whereas :hello is attribute
